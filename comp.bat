@@ -1,0 +1,1 @@
+call "C:\WinPython27x64\python-2.7.10.amd64\Lib\site-packages\PyQt4\pyuic4.bat" -o ui_MainForm.py ui_main.ui
